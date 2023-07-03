@@ -1,0 +1,9 @@
+Django
+django-ckeditor
+django-cors-headers
+djangorestframework
+Pillow
+pylint
+pylint-django
+pylint-celery
+
